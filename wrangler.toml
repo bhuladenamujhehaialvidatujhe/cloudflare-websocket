@@ -1,4 +1,4 @@
-name = "cloudflare-websocket"
+name = "websocket"
 compatibility_date = "2026-02-09"
 main = "wss.js"
 
