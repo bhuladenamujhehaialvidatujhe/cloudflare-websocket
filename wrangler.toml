@@ -1,4 +1,4 @@
-name = "websockets"
+name = "websocket"
 compatibility_date = "2026-02-04"
 main = "wss.js"
 
