@@ -1,5 +1,5 @@
 name = "websocket"
-compatibility_date = "2026-02-09"
+compatibility_date = "2026-02-08"
 main = "wss.js"
 
 compatibility_flags = [ "nodejs_compat" ]
