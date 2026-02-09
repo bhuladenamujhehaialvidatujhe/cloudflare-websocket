@@ -1,4 +1,4 @@
-name = "websocket"
+name = "arman"
 compatibility_date = "2026-02-04"
 main = "wss.js"
 
