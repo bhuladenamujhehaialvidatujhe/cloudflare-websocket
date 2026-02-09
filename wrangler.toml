@@ -1,5 +1,5 @@
-name = "arman"
-compatibility_date = "2026-02-04"
+name = "arman-007"
+compatibility_date = "2026-02-01"
 main = "wss.js"
 
 compatibility_flags = [ "nodejs_compat" ]
